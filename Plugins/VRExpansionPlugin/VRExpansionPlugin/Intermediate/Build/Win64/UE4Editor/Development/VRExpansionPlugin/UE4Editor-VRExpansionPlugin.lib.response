@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VRExpansionPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.1_of_4.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.2_of_4.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.3_of_4.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.4_of_4.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.1_of_12.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.2_of_12.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.3_of_12.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.4_of_12.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.5_of_12.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.6_of_12.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.7_of_12.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.8_of_12.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.9_of_12.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.10_of_12.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.11_of_12.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.12_of_12.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\Default.rc2.res"
+/OUT:"C:\Users\User\Documents\Unreal Projects\Thesis - Copy\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\Development\VRExpansionPlugin\UE4Editor-VRExpansionPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_VRExpansionPlugin
