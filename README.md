@@ -14,8 +14,8 @@ How to push your changes
 8. `git push `
 
 Notes:  
-5. `git status `checks the files to push 
-6. `git add . `adds all files to your local rocket station. When you push, this rocket shoots up to the cloud  and stores the info on GitHub
+5. `git status `checks the files to push  
+6. `git add . `adds all files to your local rocket station. When you push, this rocket shoots up to the cloud  and stores the info on GitHub  
 6.  pay attention to the space after `add` in `git add . `
 
 How to pull your changes  
